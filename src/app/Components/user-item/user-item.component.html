@@ -1,0 +1,13 @@
+<!-- <tr *ngFor="let u of users">-->
+<!-- <tr> -->
+<td scope="row">{{user.id}}</td>
+<td>{{user.name}}</td>
+<td>{{user.email}}</td>
+<td><button type="button" class="btn btn-link" routerLink="{{user.id}}">Details</button></td>
+<td><button type="button" class="btn btn-link" routerLink="/updateUser/{{user.id}}">Update</button></td>
+<td><button type="button" class="btn btn-link" (click)="deleteUser()">Delete</button></td>
+
+<!-- </tr> -->
+ 
+<!-- ---------------------------------------------------------------------------------------------- -->
+

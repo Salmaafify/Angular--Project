@@ -1,0 +1,22 @@
+<div class="col-4 m-auto mt-5">
+    <div class="mb-3 col-8">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" class="form-control" id="name" #name>
+      </div>
+      <div class="mb-3 col-8">
+        <label for="email" class="form-label">Email</label>
+        <input type="text" class="form-control" id="email" #email>
+      </div>
+      <div class="mb-3 col-8">
+        <label for="phone" class="form-label">Phone Number</label>
+        <input type="text" class="form-control" id="phone" #phone>
+      </div>
+      <div class="mb-3 col-8">
+        <label for="desc" class="form-label">Description</label>
+        <textarea class="form-control" id="desc" rows="3" #desc></textarea>
+      </div>
+      <div class="mb-3 col-4">
+        <button type="button" class="btn btn-primary mb-3" (click)="updateUser(name.value,email.value,phone.value,desc.value)">Update User</button>
+      </div>
+    </div>
+    

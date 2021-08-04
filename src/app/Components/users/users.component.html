@@ -1,0 +1,22 @@
+<div class="col-6 m-auto">
+<table class="table mt-5 table-bordered table-hover align-middle">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Email</th>
+        <th scope="col">Details</th>
+        <th scope="col">Update</th>
+        <th scope="col">Delete</th>
+      </tr>
+    </thead>
+    <tbody> 
+        <!-- <tr *ngFor="let u of users">
+            <app-user-item [user]="u"></app-user-item>
+        </tr> -->
+        <tr app-user-item *ngFor="let u of users" [user]="u">
+
+        </tr>
+    </tbody>
+  </table>
+</div>

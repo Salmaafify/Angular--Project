@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+        "id": 1,
+        "name": "Mohamed",
+        "email": "mohamed@gmail.com",
+        "PhoneNumber": "+20-105-551-1017",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto sit at voluptatum, animi voluptates, eos ipsum ipsam beatae quaerat reprehenderit quisquam quod amet ex reiciendis quam labore totam aut ipsa!",
+        "imageSrc": "assets/Images/p2.jpg"
+      },
+    {
+      "id": 2,
+      "name": "Salma",
+      "email": "salma@gmail.com",
+      "PhoneNumber": "+20-105-559-7414",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto sit at voluptatum, animi voluptates, eos ipsum ipsam beatae quaerat reprehenderit quisquam quod amet ex reiciendis quam labore totam aut ipsa!",
+      "imageSrc": "assets/Images/p1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Usman",
+      "email": "Usman@gmail.com",
+      "PhoneNumber": "+20-115-558-9776",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto sit at voluptatum, animi voluptates, eos ipsum ipsam beatae quaerat reprehenderit quisquam quod amet ex reiciendis quam labore totam aut ipsa!",
+      "imageSrc": "assets/Images/p4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Zafar",
+      "email": "Zafar@gmail.com",
+      "PhoneNumber": "+20-125-551-9917",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto sit at voluptatum, animi voluptates, eos ipsum ipsam beatae quaerat reprehenderit quisquam quod amet ex reiciendis quam labore totam aut ipsa!",
+      "imageSrc": "assets/Images/p5.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sara",
+      "email": "sara@gmail.com",
+      "PhoneNumber": "+20-105-552-5860",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto sit at voluptatum, animi voluptates, eos ipsum ipsam beatae quaerat reprehenderit quisquam quod amet ex reiciendis quam labore totam aut ipsa!",
+      "imageSrc": "assets/Images/p3.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jones",
+      "email": "Jones@gmail.com",
+      "PhoneNumber": "+20-115-558-5408",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto sit at voluptatum, animi voluptates, eos ipsum ipsam beatae quaerat reprehenderit quisquam quod amet ex reiciendis quam labore totam aut ipsa!",
+      "imageSrc": "assets/Images/p6.jpg"
+    },
+    {
+      "name": "Ali",
+      "email": "ali@gmail.com",
+      "PhoneNumber": "0483856445",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto sit at voluptatum, animi voluptates, eos ipsum ipsam beatae quaerat reprehenderit quisquam quod amet ex reiciendis quam labore totam aut ipsa!",
+      "imageSrc": "assets/Images/p6.jpg",
+      "id": 7
+    }
+  ]
+}
